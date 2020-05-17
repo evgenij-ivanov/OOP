@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using Sem2Lab1.Implementations.Utility;
+﻿using Sem2Lab1.Implementations.Utility;
 using Sem2Lab1.Interfaces;
+using System;
 
 namespace Sem2Lab1.Implementations
 {
@@ -25,7 +23,7 @@ namespace Sem2Lab1.Implementations
                     double height = Math.Tan(angleB) * EdgeLength / 2.0;
                     return EdgeLength * height;
                 }
-                else if(Geometry.AreAnglesEqual(AngleB, 90.0))
+                else if (Geometry.AreAnglesEqual(AngleB, 90.0))
                 {
                     double angleA = Geometry.DegreesToRadians(AngleA);
                     double height = Math.Tan(angleA) * EdgeLength / 2.0;

@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Sem2Lab1.Factories.ArbitraryTriangleFactory">
+    <Position X="7" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\ArbitraryTriangleFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sem2Lab1.Factories.EquilateralTriangleFactory">
+    <Position X="4.5" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\EquilateralTriangleFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sem2Lab1.Factories.IsoscelesTriangleFactory">
+    <Position X="7.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\IsoscelesTriangleFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sem2Lab1.Factories.RightTriangleFactory">
+    <Position X="4.5" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\RightTriangleFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sem2Lab1.Factories.TriangleFactory">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\TriangleFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sem2Lab1.Implementations.Utility.Geometry">
+    <Position X="4.5" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAQAAAIAAAAAAAA=</HashCode>
+      <FileName>Models\Implementations\Utility\Geometry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sem2Lab1.Implementations.ArbitraryTriangle">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Models\Implementations\ArbitraryTriangle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Sem2Lab1.Implementations.EquilateralTriangle">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Models\Implementations\EquilateralTriangle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Sem2Lab1.Implementations.IsoscelesTriangle">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Models\Implementations\IsoscelesTriangle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Sem2Lab1.Implementations.RightTriangle">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Models\Implementations\RightTriangle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Sem2Lab1.Implementations.Triangle">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Models\Implementations\Triangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Sem2Lab1.Interfaces.ITriangle">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Models\Interfaces\ITriangle.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

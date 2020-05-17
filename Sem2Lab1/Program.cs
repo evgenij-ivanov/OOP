@@ -1,7 +1,4 @@
-﻿using System;
-using Sem2Lab1.Implementations.Utility;
-
-namespace Sem2Lab1
+﻿namespace Sem2Lab1
 {
     class Program
     {

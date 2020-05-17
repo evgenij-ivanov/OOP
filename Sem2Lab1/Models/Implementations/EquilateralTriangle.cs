@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using Sem2Lab1.Implementations.Utility;
-using Sem2Lab1.Interfaces;
+﻿using Sem2Lab1.Interfaces;
+using System;
 
 namespace Sem2Lab1.Implementations
 {

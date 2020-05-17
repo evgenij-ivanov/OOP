@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using Sem2Lab1.Implementations.Utility;
-
-namespace Sem2Lab1.Implementations
+﻿namespace Sem2Lab1.Implementations
 {
     public abstract class Triangle
     {
