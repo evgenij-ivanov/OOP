@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Sem2Lab3.AddCommand">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>AddCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sem2Lab3.Command">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAABAQAAgAAACAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Command.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Sem2Lab3.Container">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAABAAAAAAABgAAAAAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Container.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Command" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Sem2Lab3.RemoveCommand">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>RemoveCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sem2Lab3.UpdateCommand">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>UpdateCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
