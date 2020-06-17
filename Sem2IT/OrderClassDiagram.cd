@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Sem2IT.Order">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAIAgAAAAAAAEAAAAAAAAAAAAAAACAAAAQgAAE=</HashCode>
+      <FileName>Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sem2IT.ScholarshipOrder">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAgAAE=</HashCode>
+      <FileName>ScholarshipOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sem2IT.TransferOrder">
+    <Position X="5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgEAE=</HashCode>
+      <FileName>TransferOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sem2IT.GraduateOrder">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAgAAE=</HashCode>
+      <FileName>GraduateOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sem2IT.ExpulsionOrder">
+    <Position X="7.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAE=</HashCode>
+      <FileName>ExpulsionOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
