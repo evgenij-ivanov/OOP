@@ -10,9 +10,10 @@ namespace Sem2IT
     {
         private Gradebook gradebook;
 
-        public Student(string lastName, string firstName, string secondName) : base(lastName, firstName, secondName)
+        public Student(string lastName, string firstName, string secondName, PaymentForm paymentForm) : base(lastName, firstName, secondName)
         {
             IsProvidedWithScholarship = false;
+            PaymentForm = paymentForm;
             int gradebookNumber = 1;
             foreach (var department in University.Departments)
             {
@@ -23,6 +24,9 @@ namespace Sem2IT
             }
             Gradebook.Number = gradebookNumber.ToString();
         }
+
+        public Student(string lastName, string firstName, string secondName) : this(lastName, firstName, secondName, PaymentForm.Budget)
+        { }
 
         public PaymentForm PaymentForm
         {
